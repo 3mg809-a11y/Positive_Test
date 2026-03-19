@@ -1,7 +1,7 @@
 {
-  "name": "test-repo",
+  "name": "snyk-test-repo",
   "version": "1.0.0",
-  "description": "A deliberately vulnerable Node.js application.",
+  "description": "A deliberately vulnerable Node.js application for testing Snyk.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -13,3 +13,4 @@
     "minimist": "1.2.0",
     "request": "2.88.0"
   }
+}
