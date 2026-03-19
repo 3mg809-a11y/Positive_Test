@@ -1,7 +1,0 @@
-{
-  "name": "xz-compromise-test",
-  "version": "1.0.0",
-  "dependencies": {
-    "xz": "0.1.4" 
-  }
-}
